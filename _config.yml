@@ -1,9 +1,9 @@
-title:              Clean Blog
+title:              Trading Charts
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://blackrockdigital.github.io"
+baseurl:            "/charts"
+url:                "https://wallstreet.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
