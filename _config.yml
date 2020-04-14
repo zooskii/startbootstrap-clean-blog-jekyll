@@ -2,8 +2,8 @@ title:              Trading Charts
 email:              wallstreet1@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/charts"
-url:                "https://wallstreet.github.io"
+baseurl:            "/wallstreet"
+url:                "https://zooskii.github.io/"
 
 # Social Profiles
 twitter_username:   SBootstrap
